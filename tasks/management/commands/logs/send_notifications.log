@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/mnt/c/Users/zaidh/OneDrive/Desktop/FinalProject/Capstone/tasks/management/commands/send_notifications.py", line 3, in <module>
+    from django.core.management.base import BaseCommand
+ModuleNotFoundError: No module named 'django'
+Traceback (most recent call last):
+  File "/mnt/c/Users/zaidh/OneDrive/Desktop/FinalProject/Capstone/tasks/management/commands/send_notifications.py", line 3, in <module>
+    from django.core.management.base import BaseCommand
+ModuleNotFoundError: No module named 'django'
+Traceback (most recent call last):
+  File "/mnt/c/Users/zaidh/OneDrive/Desktop/FinalProject/Capstone/tasks/management/commands/send_notifications.py", line 3, in <module>
+    from django.core.management.base import BaseCommand
+ModuleNotFoundError: No module named 'django'
